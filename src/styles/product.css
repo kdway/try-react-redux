@@ -1,0 +1,9 @@
+
+/*.card-product{
+    box-shadow: 2px 4px hotpink;
+
+}*/
+
+.product-image img{
+    border-radius: 0.5vh;
+}
